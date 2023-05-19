@@ -1,3 +1,2 @@
 Xiaoru Dong's website
-
-Design: html5up.net | @ajlkn
+Please access my personal website by https://xiaorudong.github.io
