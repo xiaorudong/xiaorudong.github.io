@@ -1,2 +1,3 @@
 Xiaoru Dong's website
-Please view my personal website by https://xiaorudong.github.io
+Please review my personal website by accessing the following link: 
+https://xiaorudong.github.io
